@@ -11,7 +11,7 @@ SRCS := $(wildcard *.cpp)
 OBJS := $(SRCS:.cpp=.o)
 
 # Executable
-TARGET := my_program
+TARGET := MA1
 
 # Default rule
 all: $(TARGET)
